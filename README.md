@@ -6,3 +6,4 @@
 - GitHub
 - Python
 - SQL
+- AI
