@@ -7,3 +7,4 @@
 - Python
 - SQL
 - AI
+- by:Mohamed Sobhi
